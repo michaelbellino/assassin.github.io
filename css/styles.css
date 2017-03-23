@@ -1,0 +1,38 @@
+body {
+    background-color:#111e87;
+}
+#header {
+    color:white;
+    width:auto;
+    height:175px;;
+
+}
+#headtext {
+    font-size:10vw;
+    text-shadow: 2px 2px 2px #000000;
+    top:30%;
+    position:relative;
+}
+#twitter {
+    width:115%;
+    margin-left:-7.5%;
+}
+#list {
+    width:115%;
+    margin-left:-7.5%;
+}
+#listfr {
+    width:100%;
+    height:1350px;
+}
+#rules {
+    width:115%;
+    margin-left:-7.5%;
+}
+#subheader {
+    height:75px;
+}
+#subhead {
+    color:white;
+    font-size:3.5vw;
+}
