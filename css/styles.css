@@ -36,3 +36,46 @@ body {
     color:white;
     font-size:3.5vw;
 }
+#swipe {
+    position:absolute;
+    top:50%;
+    left:91%;
+    width:10%;
+    height:10%;
+}
+#swipe2 {
+    position:absolute;
+    top:120%;
+    left:91%;
+    width:10%;
+    height:10%;
+}
+#swipe3 {
+    position:absolute;
+    top:131%;
+    left:91%;
+    width:10%;
+    height:10%;
+}
+#swipe4 {
+    position:absolute;
+    top:202%;
+    left:91%;
+    width:10%;
+    height:10%;
+}
+#swipe5 {
+    position:absolute;
+    top:120%;
+    left:75%;
+    width:10%;
+    height:10%;
+}
+#swipe6 {
+    position:absolute;
+    top:131%;
+    left:75%;
+    width:10%;
+    height:10%;
+}
+
