@@ -21,6 +21,7 @@ body {
     width:115%;
     margin-left:-7.5%;
     height:500px;
+    padding-bottom:5%;
 }
 #listfr {
     width:100%;
@@ -46,14 +47,14 @@ body {
 }
 #swipe2 {
     position:absolute;
-    top:120%;
+    top:100%;
     left:91%;
     width:10%;
     height:10%;
 }
 #swipe3 {
     position:absolute;
-    top:131%;
+    top:111%;
     left:91%;
     width:10%;
     height:10%;
