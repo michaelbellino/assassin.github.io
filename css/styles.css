@@ -21,7 +21,7 @@ body {
     width:115%;
     margin-left:-7.5%;
     height:500px;
-    padding-bottom:5%;
+    padding-bottom:-5%;
 }
 #listfr {
     width:100%;
