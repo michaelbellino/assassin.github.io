@@ -46,21 +46,21 @@ body {
 }
 #swipe2 {
     position:absolute;
-    top:100%;
+    top:120%;
     left:91%;
     width:10%;
     height:10%;
 }
 #swipe3 {
     position:absolute;
-    top:111%;
+    top:131%;
     left:91%;
     width:10%;
     height:10%;
 }
 #swipe4 {
     position:absolute;
-    top:155%;
+    top:175%;
     left:91%;
     width:10%;
     height:10%;
