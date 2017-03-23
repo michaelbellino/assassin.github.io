@@ -7,6 +7,12 @@ body {
     height:175px;;
 
 }
+#footer {
+    color:white;
+    width:auto;
+    height:175px;;
+
+}
 #headtext {
     font-size:10vw;
     text-shadow: 2px 2px 2px #000000;
@@ -43,6 +49,7 @@ body {
     left:91%;
     width:10%;
     height:10%;
+    padding-left:10px;
 }
 #swipe2 {
     position:absolute;
@@ -50,6 +57,7 @@ body {
     left:91%;
     width:10%;
     height:10%;
+    padding-left:10px;
 }
 #swipe3 {
     position:absolute;
@@ -57,12 +65,105 @@ body {
     left:91%;
     width:10%;
     height:10%;
+    padding-left:10px;
 }
 #swipe4 {
     position:absolute;
     top:320%;
     left:91%;
     width:10%;
+    height:10%;
+    padding-left:10px;
+}
+#swipe5 {
+    position:absolute;
+    top:120%;
+    left:75%;
+    width:10%;
+    height:10%;
+}
+#swipe6 {
+    position:absolute;
+    top:131%;
+    left:75%;
+    width:10%;
+    height:10%;
+}
+
+@media only screen and (max-width: 1920px) and (min-width: 720px) {
+    #header {
+    color:white;
+    width:auto;
+    height:75px;;
+
+}
+#headtext {
+    font-size:5vw;
+    text-shadow: 2px 2px 2px #000000;
+    top:30%;
+    position:relative;
+} 
+#subheader {
+    height:30px;
+    top:-50px;
+}
+#subhead {
+    color:white;
+    font-size:1.5vw;
+}
+    #twitter {
+    position:relative;
+    width:50%;
+    height:275px;
+    left:-4%;
+    top:25px;
+}
+#list {
+    position:relative;
+    width:50%;
+    left:50%;
+    
+}
+#listfr {
+    position:relative;
+    top:-285px;
+    width:136%;
+    height:100vh !important;
+}
+#rules {
+    position:relative;
+    top:-285px;
+    left:50%;
+    width:68%;
+    height:100vh !important;
+}
+
+#swipe {
+    position:absolute;
+    top:50%;
+    left:91%;
+    width:0%;
+    height:10%;
+}
+#swipe2 {
+    position:absolute;
+    top:200%;
+    left:91%;
+    width:0%;
+    height:10%;
+}
+#swipe3 {
+    position:absolute;
+    top:211%;
+    left:91%;
+    width:0%;
+    height:10%;
+}
+#swipe4 {
+    position:absolute;
+    top:320%;
+    left:91%;
+    width:0%;
     height:10%;
 }
 #swipe5 {
@@ -80,9 +181,16 @@ body {
     height:10%;
 }
 
-@media only screen and (max-width: 1200px) and (min-width: 768px) { 
-    #listfr {
-        display: list-item;
-        min-height: inherit;
-    }
+#footer {
+    color:white;
+    width:auto;
+    height:50px;
+    position:relative;
+    bottom:400px;
+    margin-bottom:-400px;
+
+}
+#main {
+    height:220vh;
+}
 }
