@@ -20,11 +20,11 @@ body {
 #list {
     width:115%;
     margin-left:-7.5%;
-    min-height:1350px;
+    height:1350px;
 }
 #listfr {
     width:100%;
-    min-height:1350px;
+    height:1350px;
 }
 #rules {
     width:115%;
